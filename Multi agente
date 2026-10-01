@@ -1,0 +1,6 @@
+# 🏢 Sistema Multi-Agente Corporativo y Rastreador de Empleo
+
+Este repositorio contiene la arquitectura y simulación de un **Sistema Multi-Agente Autónomo** diseñado para operar como una estructura corporativa digital. El sistema utiliza un enfoque jerárquico donde un Agente Gerente General (CEO) coordina sub-agentes especialistas para maximizar la eficiencia operativa y automatizar flujos de trabajo financieros y laborales.
+
+## 📐 Arquitectura del Sistema
+
