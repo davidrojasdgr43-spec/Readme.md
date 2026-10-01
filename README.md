@@ -3,7 +3,7 @@
 ## Datos de Contacto
 * **Ubicación:** La Rioja, Argentina
 * **LinkedIn:** [Tu Perfil Opcional]
-* **Contacto:** [Tu Teléfono / Tu Correo]
+* **Contacto:** [+543804208039 celular / davidrojas_k83@hotmail.com Correo]
 
 ---
 
